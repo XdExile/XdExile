@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @XdExile
+- 👋 Hi, I’m Mohammad Haris
 - 👀 I’m interested in Making discord bots with python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and web development also
+- Mail me if you want a discord bot
 
-- 📫 immortalik01@gmail.com ...
+- 📫 harismd592@gmail.com...
 
-<!---
-XdExile/XdExile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
